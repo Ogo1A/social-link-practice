@@ -1,0 +1,49 @@
+.container11 {
+  text-align: center;
+  background-color: hsl(0, 0%, 12%);
+  width: 389px;
+  height: 608px;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 173px;
+}
+.image1 {
+  border-radius: 50%;
+}
+body {
+  background-color: hsl(0, 0%, 8%);
+}
+.links {
+  display: flex;
+  flex-direction: column;
+}
+.links button {
+  font-family: "Inter", sans-serif;
+  margin: 10px 0;
+  padding: 15px;
+  border: none;
+  outline: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.1s;
+  color: white;
+  margin: 20px;
+  background-color: hsl(0, 0%, 20%);
+}
+.links button:hover {
+  background-color: hsl(75, 94%, 57%);
+  color: black;
+}
+.prof-pic {
+  width: 100px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+h3 {
+  color: hsl(75, 94%, 57%);
+}
+h2,
+h4 {
+  color: white;
+}
